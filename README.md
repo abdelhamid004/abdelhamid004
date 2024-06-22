@@ -1,5 +1,5 @@
 # Hello, I'm Abdelhamid Bechaouch
-<a href="https://linkedin.com](https://www.linkedin.com/in/abdelhamid-bechaouch-6a8446293/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com](https://www.linkedin.com/in/abdelhamid-bechaouch-6a8446293/](https://www.linkedin.com/in/abdelhamid-bechaouch-6a8446293/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 My name is Abdelhamid Béchaouch. I am embarking on a journey into the world of network and information systems at ISET Rades, having just completed my first year. Driven by a passion for technology, I find joy in analyzing and solving complex problems. Beyond my studies, I am dedicated to honing my skills, spending afterhours completing the Google Cybersecurity course, eager to contribute to safeguarding people's security and financial well-being through my future work.
 ## Objective
